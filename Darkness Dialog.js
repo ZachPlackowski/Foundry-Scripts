@@ -1,6 +1,6 @@
 new Dialog({
     title: "Darkness Size",
-    content: "<p> Are you using Greater Darkness? </p>",
+    content: "<p> Darkness Size? </p>",
     buttons: {
         regular: {
             label: "Regular",
